@@ -1,4 +1,4 @@
-1.) AccountKit FacebookLogin:  App that demonstrate how to use Facebook Account in your app to register/login user easily in your App .
+1.) AccountKit FacebookLogin:  App that demonstrate how to use Facebook Login in your app to register/login user easily in your App .
 
 2). Functionality used:
     FacebookSDK.
